@@ -19,3 +19,8 @@ The first player to score 100 or more points wins.
 ### Game layout <br>
 <img width="400" alt="Screenshot 2025-02-03 at 21 09 55" src="https://github.com/user-attachments/assets/bae6a15b-c951-47c1-aba8-0902e9ab2111" />
 <img width="400" alt="Screenshot 2025-02-03 at 21 11 17" src="https://github.com/user-attachments/assets/0081b515-bc67-430e-be35-073afa0deb6c" />
+
+### TRY IT ⤵️
+
+https://pig-game-katek.netlify.app
+
