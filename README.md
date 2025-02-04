@@ -6,7 +6,7 @@ Players take turns to roll a single dice as many times as they wish, adding all 
 to a running total, but losing their gained score for the turn if they roll a 🎲.
 
 ### Game rules <br>
-Each turn, a player repeatedly rolls a die until the chosen number is rolled or the player decides to "hold":<br>
+Each turn, a player repeatedly rolls a dice until the chosen number is rolled or the player decides to "hold":<br>
 
 If the player rolls the number chosen at the beginning of the game, they score nothing and it becomes the next player's turn.
 If the player rolls any other number, it is added to their turn total and the player's turn continues.
