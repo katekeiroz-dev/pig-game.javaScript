@@ -24,3 +24,5 @@ The first player to score 100 or more points wins.
 
 https://pig-game-katek.netlify.app
 
+---
+♥ by Kate Keiroz.
