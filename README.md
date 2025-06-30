@@ -3,7 +3,8 @@
 ### ABOUT THE GAME <br>
 Pig is a simple dice game first described in print by John Scarne in 1945 .<br>
 Players take turns to roll a single dice as many times as they wish, adding all roll results <br>
-to a running total, but losing their gained score for the turn if they roll a 🎲.
+to a running total, but losing their gained score for the turn if they roll a 🎲..
+.
 
 ### Game rules <br>
 Each turn, a player repeatedly rolls a dice until the chosen number is rolled or the player decides to "hold":<br>
